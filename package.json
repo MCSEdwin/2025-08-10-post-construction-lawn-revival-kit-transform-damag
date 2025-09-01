@@ -1,0 +1,27 @@
+{
+  "name": "2025-08-10-post-construction-lawn-revival-kit-transform-damag",
+  "version": "1.0.0",
+  "description": "Post-Construction Lawn Revival Kit: Transform Damaged Lawns While Saving Homeowners $600/Year",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . --live"
+  },
+  "keywords": [
+    "ai-generated",
+    "landing-page",
+    "idea2mvp",
+    "azure-openai",
+    "home-improvement-and-landscaping"
+  ],
+  "author": "Idea2MVP AI System",
+  "license": "MIT",
+  "homepage": "https://dailyidea.AIFirstPartner.com/daily-ideas/2025-08-10/index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MCSEdwin/2025-08-10-post-construction-lawn-revival-kit-transform-damag.git"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
